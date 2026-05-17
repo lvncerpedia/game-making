@@ -1,5 +1,4 @@
-かなりあるよ〜。Godotって「エンジン本体は軽いけど、アセットは外部から集める文化」だから、みんな色んなサイトを組み合わせてる感じ！
-
+Godotって「エンジン本体は軽いけど、アセットは外部から集める文化」だから、みんな色んなサイトを組み合わせてる感じ！
 まず結論から言うと、初心者〜個人開発ならこの組み合わせがめちゃ強い👇
 
 * 画像・UI → Kenney
@@ -8,16 +7,12 @@
 * 3D → Quaternius / Poly Haven
 * 足りないもの補完 → OpenGameArt
 
-って感じ！
+## まず最強なのはこれ
 
----
-
-# まず最強なのはこれ
-
-## [Kenney](https://kenney.nl?utm_source=chatgpt.com)
+https://kenney.nl
 
 Godot界隈でも「とりあえずKenney使っとけ」ってレベル。
-CC0（ほぼ何してもOK）なのが神。 ([Free Game Assets 2D][1])
+CC0（ほぼ何してもOK）なのが神。
 
 ### 特に良い
 
@@ -36,16 +31,13 @@ CC0（ほぼ何してもOK）なのが神。 ([Free Game Assets 2D][1])
 
 のが超大事。
 
-個人開発って、
-「アート統一感」が一番難しいからね。
+個人開発って、「アート統一感」が一番難しいからね。
 
----
+## 独特な雰囲気を出したいなら
 
-# 独特な雰囲気を出したいなら
+https://itch.io/game-assets/free
 
-## [itch.io Game Assets](https://itch.io/game-assets/free?utm_source=chatgpt.com)
-
-ここはインディー作家の宝庫。 ([Cinevva][2])
+ここはインディー作家の宝庫。
 
 ### 強いところ
 
@@ -62,16 +54,13 @@ CC0（ほぼ何してもOK）なのが神。 ([Free Game Assets 2D][1])
 * horror系
 
 が強い。
-
 君の「ちょっとハードで独特」みたいな方向性とも相性良さそう。
 
----
+## 音素材でおすすめ
 
-# 音素材でおすすめ
+https://freesound.org
 
-## [Freesound](https://freesound.org?utm_source=chatgpt.com)
-
-効果音の巨大データベース。 ([Hackingtons][3])
+効果音の巨大データベース。
 
 ### 良いところ
 
@@ -83,25 +72,19 @@ CC0（ほぼ何してもOK）なのが神。 ([Free Game Assets 2D][1])
 * 金属音
 
 みたいな「細かい生活音」が強い。
-
 ただし注意！
-
-ライセンスが混ざってるから、
-必ず
+ライセンスが混ざってるから、必ず
 
 * CC0
 * CC-BY
 
 を見ること。
 
----
+## 商用でも安心寄り
 
-# 商用でも安心寄り
+https://sonniss.com/gameaudiogdc
 
-## [SONNISS GDC Audio Pack](https://sonniss.com/gameaudiogdc?utm_source=chatgpt.com)
-
-ゲーム開発者の間で超有名。 ([Hackingtons][3])
-
+ゲーム開発者の間で超有名。
 毎年GDCで大量の効果音パックを無料配布してる。
 
 ### めちゃくちゃ強い
@@ -113,16 +96,12 @@ CC0（ほぼ何してもOK）なのが神。 ([Free Game Assets 2D][1])
 
 剣、爆発、SF、機械音とかかなり良い。
 
----
+## 3Dならこれ
 
-# 3Dならこれ
+https://quaternius.com
 
-## [Quaternius](https://quaternius.com?utm_source=chatgpt.com)
-
-Godot勢めちゃ使ってる。 ([Hackingtons][4])
-
-低ポリで統一されてるから、
-「とりあえずゲームになる」。
+Godot勢めちゃ使ってる。
+低ポリで統一されてるから、「とりあえずゲームになる」。
 
 ### 向いてる
 
@@ -131,13 +110,11 @@ Godot勢めちゃ使ってる。 ([Hackingtons][4])
 * クラフト
 * RPG
 
----
+## テクスチャ・空・HDRI
 
-# テクスチャ・空・HDRI
+https://polyhaven.com
 
-## [Poly Haven](https://polyhaven.com?utm_source=chatgpt.com)
-
-CC0。神。 ([Hackingtons][4])
+CC0。神。
 
 ### 強い
 
@@ -148,13 +125,11 @@ CC0。神。 ([Hackingtons][4])
 
 3Dゲームの質感が一気に上がる。
 
----
+## なんでもある倉庫
 
-# なんでもある倉庫
+https://opengameart.org
 
-## [OpenGameArt](https://opengameart.org?utm_source=chatgpt.com)
-
-古の巨大サイト。 ([Free Game Assets 2D][1])
+古の巨大サイト。
 
 ### 特徴
 
@@ -165,16 +140,10 @@ CC0。神。 ([Hackingtons][4])
 
 「足りないパーツを探す場所」って感じ。
 
----
+## 個人的におすすめの考え方
 
-# 個人的におすすめの考え方
-
-最初は、
-
-## 「全部自作しようとしない」
-
+最初は、「全部自作しようとしない」
 これが超大事。
-
 初心者はだいたい：
 
 * ゲーム制作
@@ -191,12 +160,9 @@ CC0。神。 ([Hackingtons][4])
 * ゲーム性
 * 雰囲気
 
-だけ自分で作って、
-素材は借りるくらいでちょうどいい。
+だけ自分で作って、素材は借りるくらいでちょうどいい。
 
----
-
-# Godotで相性いい構成
+## Godotで相性いい構成
 
 例えばこんな感じ。
 
@@ -210,9 +176,6 @@ CC0。神。 ([Hackingtons][4])
 | 空・質感 | Poly Haven  |
 
 これだけでかなり戦える。
-
----
-
 あと、Godotは「shader遊び」が超強いから、
 
 * CRT風
@@ -220,20 +183,17 @@ CC0。神。 ([Hackingtons][4])
 * ノイズ
 * 暗いライティング
 
-を足すだけで、
-素材が多少普通でも“自分のゲーム感”出るよ。
-
+を足すだけで、素材が多少普通でも“自分のゲーム感”出るよ。
 ゲーム作り初めてなら、シェーダーは最初かなり「魔法」に見えると思う。でも実際は、
 
 > “画面のピクセルをどう描くかをGPUに命令する仕組み”
 
 って感じ！
-
 Godotはシェーダーかなり強いし、初心者でも遊びやすいから、早めに触るとめっちゃ楽しいよ。
 
 ---
 
-# まずゲーム制作全体の中でのシェーダーの位置
+## まずゲーム制作全体の中でのシェーダーの位置
 
 ゲームってざっくりこう。
 
@@ -256,15 +216,13 @@ Godotはシェーダーかなり強いし、初心者でも遊びやすいから
 
 なんだよね。
 
----
-
-# シェーダーで何ができる？
+## シェーダーで何ができる？
 
 めちゃくちゃ色々できる。
 
-## 1. 光る
+### 1. 光る
 
-![Image](https://images.openai.com/static-rsc-4/ja8iKyx_VxKP7V0H1-ZBtrdLVWAIOxqvEoMkHFcWsMMosVvD8Kb1LX9Xlis8EbhMo0D2TnhwCA_QfwHiKkoftAlYmmIvIHfVl09rTCAi1tISMZPkVxR5mrRb9W85UOq0ohOhFXziw3zR8r_FHK84fCr81-A4RhRTMeesMvMqhjnp4petG0FJZYA2zG_TXgrL?purpose=fullsize)
+![Image](https://images.openai.com/static-rsc-4/ja8iKyx_VxKP7V0H1-ZBtrdLVWAIOxqvEoMkHFcWsMMosVvD8Kb1LX9Xlis8EbhMo0D2TnhwCA_QfwHiKkoftAlYmmIvIHfVl09rTCAi1tISMZPkVxR5mrRb9W85UOq0ohOhFXziw3zR8r_FHK84fCr81-A4RhRTMeesMvMqhjnp4petG0FJZYA2zG_TXgrL)
 
 ![Image](https://images.openai.com/static-rsc-4/0OATfq_B7wSUyFntuMDPvL_a6Atojj0yTcR0Z1QbuprXkNNb3uSj3a0myirRoYS55yOAJeT1CEuVoOdbREMAH34MpQfa_nNcSf8H8_KFS8L-DZkbnd3Y5ABXhKkUNYJx8Ctt_nvpmMQ58IWjG5XzeGJ-OwkT8dSLRMTXigkaghuFF3nR0kBaxBnEYIftzyD0?purpose=fullsize)
 
