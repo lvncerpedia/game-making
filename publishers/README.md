@@ -28,6 +28,8 @@
 
 ### 🔥 日本一ソフトウェア（Nippon Ichi Software · Japan）
 
+- MAGES
+
 ## 🌍 海外大手パブリッシャー
 
 ### 🗺️ ユービーアイソフト（Ubisoft · France）
